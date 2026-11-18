@@ -1,7 +1,7 @@
 <div align="center">
     
 # ✨ Hi, I'm Gabry 
-🥤︲ I'm a 17-year-old italian developer.  
+🥤︲ I'm a 18-year-old italian developer.  
 💡︲ Looking for new ideas everyday.   
 
 <!-- <img src="https://hits.up.railway.app/github?label={{hits}}_Views&color=191724&logo=github&style=for-the-badge&user=NotGabry&repository=NotGabry&labelColor=c4a7e7&logoColor=191724"> -->
